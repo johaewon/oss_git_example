@@ -37,7 +37,7 @@ Software whose copyright holder gives the right to publish, use, copy, modify, a
 
 -------------
 ### Week2-3 Github, fork, pull request
-* ![Image] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fvelog.io%2F%40hyowon_lee%2FGit-GitHub%25EB%25A1%259C-%25ED%2598%2591%25EC%2597%2585%25ED%2595%2598%25EA%25B8%25B0-Forking-Workflow&psig=AOvVaw2vM4YP0XlXeDQG62nbIqOK&ust=1664290840278000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjvutTcsvoCFQAAAAAdAAAAABAI)
+* ![Image] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fvelog.io%2F%40hyowon_lee%2FGit-GitHub%25EB%25A1%259C-%25ED%2598%2591%25EC%2597%2585%25ED%2595%2598%25EA%25B8%25B0-Forking-Workflow&psig=AOvVaw2vM4YP0XlXeDQG62nbIqOK&ust=1664290840278000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjvutTcsvoCFQAAAAAdAAAAABAI.png)
 
 [My Github](https://github.com/johaewon)
 
