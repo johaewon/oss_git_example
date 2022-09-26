@@ -37,7 +37,7 @@ Software whose copyright holder gives the right to publish, use, copy, modify, a
 
 -------------
 ### Week2-3 Github, fork, pull request
-![Image] (https://velog.velcdn.com/images%2Fhyowon_lee%2Fpost%2F6356c523-e11d-45f7-a24e-1321fc077480%2Fimage.png)
+!["Image"] (https://velog.velcdn.com/images%2Fhyowon_lee%2Fpost%2F6356c523-e11d-45f7-a24e-1321fc077480%2Fimage.png)
 
 [My Github](https://github.com/johaewon)
 
